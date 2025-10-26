@@ -1,5 +1,5 @@
 ## Bem-vindo(a) 
-   Hello, World! Eu sou o Gabriel Cosso 👋😁
+   Hello, World! Eu sou o Cosso 👋😁
 
  <div>
    <a href="https://github.com/biel-cosso">
