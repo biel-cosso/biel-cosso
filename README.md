@@ -1,6 +1,7 @@
-## Bem-vindo(a) 
-   Hello, World! 
-     Eu sou o Cosso 👋😁
+## Bem-vindo(a)  
+Hello, World! 👋
+   Prazer, pode me chamar de Cosso!
+     E meu init é sempre um café 😁☕.
 
  <div>
    <a href="https://github.com/biel-cosso">
