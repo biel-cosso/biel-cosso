@@ -1,31 +1,42 @@
-## Bem-vindo(a)  
-Hello, World! 👋
-   Prazer, pode me chamar de Cosso!
-     E meu init é sempre um café 😁☕.
+## Bem-vindo(a)   
 
- <div>
-   <a href="https://github.com/biel-cosso">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=6&theme=tokyonight"/>
+Hello, World! 👋  
+Prazer, pode me chamar de **Cosso**!  
+E meu `init` é sempre um café ☕😁  
+
+<div>
+  <a href="https://github.com/biel-cosso">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&cache_seconds=3600&theme=tokyonight"/>
+  </a>
 </div>
-    
+
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
- 
+
 <br>
- 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
+
+### 📌 Pra conteúdo sobre programação, me siga nas redes abaixo!
+
 <div> 
-  <a href="https://instagram.com/bielcosso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://wa.me/5532998334322" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  <a href="https://instagram.com/bielcosso" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://wa.me/5532998334322" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
