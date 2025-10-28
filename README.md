@@ -6,8 +6,9 @@ E meu `init` é sempre um café ☕😁
 
 <div>
   <a href="https://github.com/biel-cosso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&cache_seconds=3600&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&cache_seconds=3600&theme=tokyonight&v=2"/>
+
   </a>
 </div>
 
