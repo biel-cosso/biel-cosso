@@ -24,26 +24,32 @@ E meu `init` é sempre um café ☕😁
 
 ### 📌 Pra conteúdo sobre programação, me siga nas redes abaixo!
 
-<div align="center" style="display: flex; gap: 8 px; justify-content: center;">
+<!-- Redes sociais com ícones oficiais, sem gaps -->
+<div align="center" style="display:flex; gap:10px; justify-content:center; align-items:center; flex-wrap:wrap;">
 
   <!-- Instagram -->
-  <a href="https://instagram.com/bielcosso" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/bielcosso" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:6px 12px; border-radius:8px; background:#E4405F; color:white; font-weight:700; font-family:Arial, sans-serif;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" style="height:18px; display:block;">
+    <span style="line-height:1;">INSTAGRAM</span>
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:cosso.gabriel@gmail.com" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail&logoColor=%23EA4335" alt="Gmail"/>
+  <!-- Gmail (ícone multicolorido) -->
+  <a href="mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:6px 12px; border-radius:8px; background:#ffffff; color:#000; font-weight:700; font-family:Arial, sans-serif; box-shadow: 0 0 0 1px rgba(0,0,0,0.06) inset;">
+    <!-- ícone multicolorido do Gmail -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="height:18px; display:block;">
+    <span style="line-height:1; color:#000;">GMAIL</span>
   </a>
 
-  <!-- LinkedIn (corrigido) -->
-  <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:6px 12px; border-radius:8px; background:#0A66C2; color:white; font-weight:700; font-family:Arial, sans-serif;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="height:18px; display:block; filter: invert(1) brightness(100%);">
+    <span style="line-height:1;">LINKEDIN</span>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/5532998334322" target="_blank">
-    <img height="32" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/5532998334322" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:8px; padding:6px 12px; border-radius:8px; background:#25D366; color:white; font-weight:700; font-family:Arial, sans-serif;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" style="height:18px; display:block;">
+    <span style="line-height:1;">WHATSAPP</span>
   </a>
 
 </div>
