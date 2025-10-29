@@ -40,12 +40,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank" style="text-decoration:none; display:inline-flex; align-items:center; gap:6px; margin-right:8px;">
-    <!-- ícone "in" (quadrado azul) -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn icon" height="20" style="vertical-align:middle;">
-    <!-- badge para manter a consistência visual com as outras redes -->
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
-  <a href="https://wa.me/5532998334322" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a><a href="https://wa.me/5532998334322" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
