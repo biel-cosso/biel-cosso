@@ -21,11 +21,10 @@ E meu `init` é sempre um café ☕😁
 </div>
 
 <br>
----
 
 ### 📌 Pra conteúdo sobre programação, me siga nas redes abaixo!
 
-<div align="center" style="display: flex; gap: 8px; justify-content: center;">
+<div align="center" style="display: flex; gap: 8 px; justify-content: center;">
 
   <!-- Instagram -->
   <a href="https://instagram.com/bielcosso" target="_blank">
