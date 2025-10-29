@@ -25,8 +25,9 @@ E meu `init` é sempre um café ☕😁
 
 <br>
 
-<div align="center">
-  📌 **Curte programação?** Me acompanhe nas redes abaixo 👇
+<p align="center">
+  📌 <strong>Curte programação?</strong> Me acompanhe nas redes abaixo 👇
+</p>
   
 </div>
 
