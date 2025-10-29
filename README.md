@@ -29,9 +29,8 @@ E meu `init` é sempre um café ☕😁
   <a href="https://instagram.com/bielcosso" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:cosso.gabriel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
+</a>
   <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
