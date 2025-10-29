@@ -21,41 +21,30 @@ E meu `init` é sempre um café ☕😁
 </div>
 
 <br>
+---
 
 ### 📌 Pra conteúdo sobre programação, me siga nas redes abaixo!
 
-<div align="center">
+<div align="center" style="display: flex; gap: 8px; justify-content: center;">
 
   <!-- Instagram -->
   <a href="https://instagram.com/bielcosso" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    >
+    <img height="32" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    >
+  <!-- Gmail (ícone colorido real) -->
+  <a href="mailto:cosso.gabriel@gmail.com" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335" alt="Gmail"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
+    <img height="32" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/5532998334322" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      alt="WhatsApp"
-    >
+    <img height="32" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 
 </div>
