@@ -21,96 +21,21 @@ E meu `init` é sempre um café ☕😁
 </div>
 
 <br>
+<p align="center">
+  📌 Pra conteúdo sobre programação, me siga nas redes abaixo!  
+</p>
 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Redes de Gabriel Cosso</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #fff;
-      font-family: "Segoe UI", Roboto, Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    h3 {
-      margin-bottom: 25px;
-    }
-
-    .social-links {
-      display: flex;
-      gap: 15px;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-
-    .social-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 10px 18px;
-      border-radius: 12px;
-      text-decoration: none;
-      color: #fff;
-      font-weight: 600;
-      font-size: 15px;
-      transition: all 0.25s ease;
-      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
-    }
-
-    .social-btn img {
-      height: 22px;
-      width: 22px;
-    }
-
-    /* Cores oficiais */
-    .instagram { background: #E4405F; }
-    .gmail { background: #EA4335; }
-    .linkedin { background: #0A66C2; }
-    .whatsapp { background: #25D366; }
-
-    /* Efeitos de hover */
-    .social-btn:hover {
-      transform: translateY(-3px) scale(1.05);
-      box-shadow: 0 6px 12px rgba(255, 255, 255, 0.15);
-      filter: brightness(1.1);
-    }
-
-  </style>
-</head>
-<body>
-
-  <h3>📌 Pra conteúdo sobre programação, me siga nas redes abaixo!</h3>
-
-  <div class="social-links">
-    <a href="https://instagram.com/bielcosso" class="social-btn instagram" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
-      Instagram
-    </a>
-
-    <a href="mailto:cosso.gabriel@gmail.com" class="social-btn gmail" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail">
-      Gmail
-    </a>
-
-    <a href="https://www.linkedin.com/in/gabriel-cosso/" class="social-btn linkedin" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-      LinkedIn
-    </a>
-
-    <a href="https://wa.me/5532998334322" class="social-btn whatsapp" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp">
-      WhatsApp
-    </a>
-  </div>
-
-</body>
-</html>
+<p align="center">
+  <a href="https://instagram.com/bielcosso" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:cosso.gabriel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5532998334322" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
