@@ -25,7 +25,6 @@
   <img alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: drop-shadow(0 0 4px rgba(0,191,255,0.25));">
   <img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="filter: drop-shadow(0 0 4px rgba(255,69,0,0.25));">
   <img alt="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="filter: drop-shadow(0 0 4px rgba(0,255,255,0.25));">
-  <img alt="LinkedIn" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="filter: drop-shadow(0 0 4px rgba(10,102,194,0.4));">
 </div>
 
 ---
@@ -41,7 +40,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5532998334322" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
