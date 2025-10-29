@@ -24,21 +24,38 @@ E meu `init` é sempre um café ☕😁
 
 ### 📌 Pra conteúdo sobre programação, me siga nas redes abaixo!
 
-<div> 
+<div align="center">
+
+  <!-- Instagram -->
   <a href="https://instagram.com/bielcosso" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    >
   </a>
 
+  <!-- Gmail -->
   <a href="mailto:cosso.gabriel@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    >
   </a>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
   </a>
 
+  <!-- WhatsApp -->
   <a href="https://wa.me/5532998334322" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img 
+      src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    >
   </a>
-</div>
 
+</div>
