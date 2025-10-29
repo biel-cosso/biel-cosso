@@ -6,11 +6,7 @@
   E meu <code>init</code> é sempre um café ☕😁
 </p>
 
-<div align="center" style="margin-top: -10px; margin-bottom: -5px;">
-  <a href="https://github.com/biel-cosso">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=15" alt="Estatísticas do GitHub de Cosso"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&border_radius=15" alt="Linguagens mais usadas"/>
-  </a>
+<div align="center" style="margin-top: -10px; margin-bottom: -5px;"><a href="https://github.com/biel-cosso"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=15" alt="Estatísticas do GitHub de Cosso"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&border_radius=15" alt="Linguagens mais usadas"/></a>
 </div>
 
 ---
@@ -40,17 +36,13 @@
 
 <p align="center">
   <a href="https://instagram.com/bielcosso" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:cosso.gabriel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gabriel-cosso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/5532998334322" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
