@@ -6,7 +6,15 @@
   E meu <code>init</code> é sempre um café ☕😁
 </p>
 
-<div alt="Estatísticas do GitHub de Cosso" style="box-shadow: 0 0 15px rgba(97, 218, 251, 0.15); border-radius: 15px;"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&border_radius=15&bg_color=20,0d1117,161b22&hide_border=true" alt="Linguagens mais usadas" style="box-shadow: 0 0 15px rgba(97, 218, 251, 0.15); border-radius: 15px;"/></a> </div>
+<div align="center">
+  <img 
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&border_radius=15&bg_color=20,0d1117,161b22&hide_border=true"
+    alt="Linguagens mais usadas"
+    style="box-shadow: 0 0 15px rgba(97, 218, 251, 0.15); border-radius: 15px;"
+  />
+</div>
+
 
 ---
 
