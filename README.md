@@ -9,8 +9,7 @@
 <div align="center">
   <img 
     height="170em"
-    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15](https://github-readme-stats-git-master-orgahs-projects.vercel.app
-)"
+    src="https://github-readme-stats-git-master-orgahs-projects.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15"
     alt="Linguagens mais usadas"
     style="box-shadow: 0 0 15px rgba(97, 218, 251, 0.15); border-radius: 15px;"
   />
