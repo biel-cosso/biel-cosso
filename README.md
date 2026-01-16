@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-cosso.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title=Linguagens%20Mais%20Usadas&v=3" />
+  <img src="https://github-readme-stats-cosso.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&v=4" />
 </p>
 
 <hr width="60%">
