@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-cosso.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-cosso.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&v=3" />
 </p>
 
 <p align="center">
