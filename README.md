@@ -6,8 +6,9 @@
   E meu <code>init</code> é sempre um café ☕😁
 </p>
 
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&border_radius=15&bg_color=20,0d1117,161b22&hide_border=true" alt="Linguagens mais usadas" />
-
+<div align="center"> <img height="170em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+     alt="Linguagens mais usadas" />
 </div>
 
 
