@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-cosso.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-cosso.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title=Linguagens%20Mais%20Usadas" />
 </p>
 
 <p align="center">
