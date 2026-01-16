@@ -28,7 +28,7 @@
   Gosto de aprender na prática, resolver problemas reais e transformar ideias em código.
 </p>
 
-<hr width="60%">
+<hr width="100%">
 
 <h3 align="center">🚀 Tecnologias que uso</h3>
 
