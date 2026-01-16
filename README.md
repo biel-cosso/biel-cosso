@@ -6,11 +6,8 @@
   E meu <code>init</code> é sempre um café ☕😁
 </p>
 
-<p align="center">
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true)
 
-</p>
 
 
 ---
