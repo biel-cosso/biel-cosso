@@ -6,19 +6,6 @@
   E meu <code>init</code> é sempre um café ☕😁
 </p>
 
-<p align="center">
-  <strong>Desenvolvedor Full Stack em formação</strong><br>
-  Focado em construir aplicações modernas, performáticas e bem estruturadas.
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-cosso.vercel.app/api?username=biel-cosso&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats&v=3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-cosso.vercel.app/api/top-langs/?username=biel-cosso&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&v=4" />
-</p>
-
 <hr width="60%">
 
 <h3 align="center">🧠 Sobre mim</h3>
